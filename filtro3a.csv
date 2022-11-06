@@ -1,0 +1,240 @@
+,name,continent
+0,Aruba,North America
+1,Afghanistan,Asia
+2,Angola,Africa
+3,Anguilla,North America
+4,Albania,Europe
+5,Andorra,Europe
+6,Netherlands Antilles,North America
+7,united Arab Emirates,Asia
+8,Argentina,South America
+9,Armenia,Asia
+10,American Samoa,Oceania
+11,Antarctica,Antarctica
+12,French Southern territories,Antarctica
+13,Antigua and Barbuda,North America
+14,Australia,Oceania
+15,Austria,Europe
+16,Azerbaijan,Asia
+17,Burundi,Africa
+18,Belgium,Europe
+19,Benin,Africa
+20,Burkina Faso,Africa
+21,Bangladesh,Asia
+22,Bulgaria,Europe
+23,Bahrain,Asia
+24,Bahamas,North America
+25,Bosnia and Herzegovina,Europe
+26,Belarus,Europe
+27,Belize,North America
+28,Bermuda,North America
+29,Bolivia,South America
+30,Brazil,South America
+31,Barbados,North America
+32,Brunei,Asia
+33,Bhutan,Asia
+34,Bouvet Island,Antarctica
+35,Botswana,Africa
+36,Central African Republic,Africa
+37,Canada,North America
+38,Cocos (Keeling) Islands,Oceania
+39,Switzerland,Europe
+40,Chile,South America
+41,China,Asia
+42,Cote dIvoire,Africa
+43,Cameroon,Africa
+44,"Congo, The Democratic Republic of the",Africa
+45,Congo,Africa
+46,Cook Islands,Oceania
+47,Colombia,South America
+48,Comoros,Africa
+49,Cape Verde,Africa
+50,Costa Rica,North America
+51,Cuba,North America
+52,Christmas Island,Oceania
+53,Cayman Islands,North America
+54,Cyprus,Asia
+55,Czech Republic,Europe
+56,Germany,Europe
+57,Djibouti,Africa
+58,Dominica,North America
+59,Denmark,Europe
+60,Dominican Republic,North America
+61,Algeria,Africa
+62,Ecuador,South America
+63,Egypt,Africa
+64,Eritrea,Africa
+65,Western Sahara,Africa
+66,Spain,Europe
+67,Estonia,Europe
+68,Ethiopia,Africa
+69,Finland,Europe
+70,Fiji Islands,Oceania
+71,Falkland Islands,South America
+72,France,Europe
+73,Faroe Islands,Europe
+74,"Micronesia, Federated States of",Oceania
+75,Gabon,Africa
+76,united Kingdom,Europe
+77,Georgia,Asia
+78,Ghana,Africa
+79,Gibraltar,Europe
+80,Guinea,Africa
+81,Guadeloupe,North America
+82,Gambia,Africa
+83,Guinea-Bissau,Africa
+84,Equatorial Guinea,Africa
+85,Greece,Europe
+86,Grenada,North America
+87,Greenland,North America
+88,Guatemala,North America
+89,French Guiana,South America
+90,Guam,Oceania
+91,Guyana,South America
+92,Hong Kong,Asia
+93,Heard Island and McDonald Islands,Antarctica
+94,Honduras,North America
+95,Croatia,Europe
+96,Haiti,North America
+97,Hungary,Europe
+98,Indonesia,Asia
+99,India,Asia
+100,British Indian Ocean Territory,Africa
+101,Ireland,Europe
+102,Iran,Asia
+103,Iraq,Asia
+104,Iceland,Europe
+105,Israel,Asia
+106,Italy,Europe
+107,Jamaica,North America
+108,Jordan,Asia
+109,Japan,Asia
+110,Kazakstan,Asia
+111,Kenya,Africa
+112,Kyrgyzstan,Asia
+113,Cambodia,Asia
+114,Kiribati,Oceania
+115,Saint Kitts and Nevis,North America
+116,South Korea,Asia
+117,Kuwait,Asia
+118,Laos,Asia
+119,Lebanon,Asia
+120,Liberia,Africa
+121,Libyan Arab Jamahiriya,Africa
+122,Saint Lucia,North America
+123,Liechtenstein,Europe
+124,Sri Lanka,Asia
+125,Lesotho,Africa
+126,Lithuania,Europe
+127,Luxembourg,Europe
+128,Latvia,Europe
+129,Macao,Asia
+130,Morocco,Africa
+131,Monaco,Europe
+132,Moldova,Europe
+133,Madagascar,Africa
+134,Maldives,Asia
+135,Mexico,North America
+136,Marshall Islands,Oceania
+137,Macedonia,Europe
+138,Mali,Africa
+139,Malta,Europe
+140,Myanmar,Asia
+141,Mongolia,Asia
+142,Northern Mariana Islands,Oceania
+143,Mozambique,Africa
+144,Mauritania,Africa
+145,Montserrat,North America
+146,Martinique,North America
+147,Mauritius,Africa
+148,Malawi,Africa
+149,Malaysia,Asia
+150,Mayotte,Africa
+151,Namibia,Africa
+152,New Caledonia,Oceania
+153,Niger,Africa
+154,Norfolk Island,Oceania
+155,Nigeria,Africa
+156,Nicaragua,North America
+157,Niue,Oceania
+158,Netherlands,Europe
+159,Norway,Europe
+160,Nepal,Asia
+161,Nauru,Oceania
+162,New Zealand,Oceania
+163,Oman,Asia
+164,Pakistan,Asia
+165,Panama,North America
+166,Pitcairn,Oceania
+167,Peru,South America
+168,Philippines,Asia
+169,Palau,Oceania
+170,Papua New Guinea,Oceania
+171,Poland,Europe
+172,Puerto Rico,North America
+173,North Korea,Asia
+174,Portugal,Europe
+175,Paraguay,South America
+176,Palestine,Asia
+177,French Polynesia,Oceania
+178,Qatar,Asia
+179,Reunion,Africa
+180,Romania,Europe
+181,Russian Federation,Europe
+182,Rwanda,Africa
+183,Saudi Arabia,Asia
+184,Sudan,Africa
+185,Senegal,Africa
+186,Singapore,Asia
+187,South Georgia and the South Sandwich Islands,Antarctica
+188,Saint Helena,Africa
+189,Svalbard and Jan Mayen,Europe
+190,Solomon Islands,Oceania
+191,Sierra Leone,Africa
+192,El Salvador,North America
+193,San Marino,Europe
+194,Somalia,Africa
+195,Saint Pierre and Miquelon,North America
+196,Sao Tome and Principe,Africa
+197,Suriname,South America
+198,Slovakia,Europe
+199,Slovenia,Europe
+200,Sweden,Europe
+201,Swaziland,Africa
+202,Seychelles,Africa
+203,Syria,Asia
+204,Turks and Caicos Islands,North America
+205,Chad,Africa
+206,Togo,Africa
+207,Thailand,Asia
+208,Tajikistan,Asia
+209,Tokelau,Oceania
+210,Turkmenistan,Asia
+211,East Timor,Asia
+212,Tonga,Oceania
+213,Trinidad and Tobago,North America
+214,Tunisia,Africa
+215,Turkey,Asia
+216,Tuvalu,Oceania
+217,Taiwan,Asia
+218,Tanzania,Africa
+219,uganda,Africa
+220,ukraine,Europe
+221,united States Minor Outlying Islands,Oceania
+222,uruguay,South America
+223,united States,North America
+224,uzbekistan,Asia
+225,Holy See (Vatican City State),Europe
+226,Saint Vincent and the Grenadines,North America
+227,Venezuela,South America
+228,"Virgin Islands, British",North America
+229,"Virgin Islands, u.S.",North America
+230,Vietnam,Asia
+231,Vanuatu,Oceania
+232,Wallis and Futuna,Oceania
+233,Samoa,Oceania
+234,Yemen,Asia
+235,Yugoslavia,Europe
+236,South Africa,Africa
+237,Zambia,Africa
+238,Zimbabwe,Africa
